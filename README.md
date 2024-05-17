@@ -1,22 +1,23 @@
-## Commit 2
+## Commit 3
 
 ### Filmpix-GPT
 
-        - [x] Initilised project with
-        - [x] `npx create-react-app [name of project]`- [x]
+- [x] Initilised project with
+- [x] `npx create-react-app [name of project]`
 - [x] Configured TailwindCSS - [x]
 - [x] Landing page Backround
 - [x] Logo Left corner
+- [x] Login
+- [x] Sign Up
 ### Upcoming Features/Planning/Project Management
-* Login/Sign Up
 * Sign In /Sign up Form
 redirect to Browse Page
-* Browse (after authentication)
+* Browser (after authentication)
 - Header
 - Main Movie
-    - Tailer in Background
+    - Trailer in Background
     - Title & Description
-    - MovieSuggestions
+    - Movie Suggestions
         - MovieLists * N
 * FilmpixGPT
     - Search Bar
